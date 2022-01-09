@@ -1,3 +1,0 @@
-- Hi, I’m Golem
-- I’m interested in all types of code
-- I love coding and developing
