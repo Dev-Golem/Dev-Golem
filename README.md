@@ -2,7 +2,7 @@
 
 
 # Hello there! <img src="https://github.com/Dev-Golem/GolemGreat/blob/main/wave.gif" width="30px">
-I am a young passionate IT. I mainly program in python. 
+I am a young passionate coder. I mainly program in python. 
 </br>
 Never forget: Python > * !
 </br>
