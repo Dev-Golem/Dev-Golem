@@ -1,4 +1,5 @@
-<img align='right' src="https://github.com/Dev-Golem/GolemGreat/blob/main/city.gif" width="1000px">
+<img align='right' src="https://github.com/Dev-Golem/GolemGreat/blob/main/city.gif" width="500px">
+
 
 # Hello there! <img src="https://github.com/Dev-Golem/GolemGreat/blob/main/wave.gif" width="30px">
 I am a young passionate IT. I mainly program in python. 
