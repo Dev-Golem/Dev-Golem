@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/loTus04/loTus04/blob/main/img/Webp.net-resizeimage.gif">
+<img align='right' src="https://github.com/Dev-Golem/GolemGreat/blob/main/city.gif">
 
 # Hello there! <img src="https://github.com/Dev-Golem/GolemGreat/blob/main/wave.gif" width="30px">
 I am a young passionate IT. I mainly program in python. 
