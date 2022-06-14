@@ -11,13 +11,13 @@ Never forget: Python > * !
 </br>
 
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Python developer
-- 💼 14 years
-- 🎮 Gamer
+- 🖥 Python and HTML developer
+- Learning C#
+- 💼 15 years
+- 🎮  600 hours in rust
 
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
-- 💬 Discord Server : [Click](https://discord.gg/zpyYXqUGHw)
-- 💬 Discord : Dev_Golem#1162
+- 💬 Discord : Golem#6641
 
 ## 🏆 Skills and Tools
 - ![](https://img.shields.io/badge/DEV-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
