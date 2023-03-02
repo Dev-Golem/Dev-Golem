@@ -14,7 +14,7 @@ Never forget: Python > * !
 - 🖥 Python and HTML developer
 - Learning C#
 - 💼 15 years
-- 🎮  600 hours in rust
+- 🎮  1.3k hours in rust
 
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
 - 💬 Discord : Golem#6641
