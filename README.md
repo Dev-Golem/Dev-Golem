@@ -13,7 +13,7 @@ Never forget: Python > * !
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Python and HTML developer
 - Learning C#
-- 💼 15 years
+- 💼 16 years
 - 🎮  1.3k hours in rust
 
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
